@@ -3,3 +3,5 @@
 Fix bug : Search results showing out-of stock items.
 
 Additional Fix: Improved display logic for stock status
+
+Backend fix : stock status API improvement
